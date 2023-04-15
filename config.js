@@ -77,7 +77,7 @@ global.linkgithub = sgh // EDIT LINK GITHUB DI global.sgh
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281249122429', 𝗞𝗲𝗶𝘇𝗵𝗮', true],
+  ['6281249122429', '𝗞𝗲𝗶𝘇𝗵𝗮', true],
   ['17059004393']
     //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
